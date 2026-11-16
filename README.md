@@ -8,10 +8,9 @@ Proyecto académico de la Maestría en Inteligencia Artificial, asignatura Desar
 
 | Avance | Qué incluye | Cuaderno | Abrir en Colab |
 |---|---|---|---|
-| 1 | Chatbot basado en reglas con Python y NLTK: siete intenciones, filtros de emergencia, encuadre clínico y contención, agenda simulada y 36 casos de prueba | `avance1/avance1_chatbot_inti.ipynb` | [Abrir](https://colab.research.google.com/github/USUARIO/inti-integra-salud/blob/main/avance1/avance1_chatbot_inti.ipynb) |
-| 2 | Primera versión multimodal: clasificador de intenciones (TF-IDF y SVM lineal), clasificador visual de documentos (EfficientNet-B0 con transferencia de aprendizaje) e integración en la conversación | `avance2/avance2_inti_multimodal.ipynb` | [Abrir](https://colab.research.google.com/github/USUARIO/inti-integra-salud/blob/main/avance2/avance2_inti_multimodal.ipynb) |
+| 1 | Chatbot basado en reglas con Python y NLTK: siete intenciones, filtros de emergencia, encuadre clínico y contención, agenda simulada y 36 casos de prueba | `avance1/avance1_chatbot_inti.ipynb` | 
+| 2 | Primera versión multimodal: clasificador de intenciones (TF-IDF y SVM lineal), clasificador visual de documentos (EfficientNet-B0 con transferencia de aprendizaje) e integración en la conversación | `avance2/avance2_inti_multimodal.ipynb` | 
 
-Sustituya `USUARIO` por su nombre de usuario de GitHub en los enlaces anteriores.
 
 ## Resultados del Avance 2
 
@@ -46,7 +45,7 @@ inti-integra-salud/
 │   ├── figuras/                          gráficas y diagrama de arquitectura
 │   ├── pruebas/                          métricas, matriz de pruebas y conversaciones
 │   └── herramientas/                     script del diagrama de arquitectura
-└── docs/                                 documento de cada avance en PDF (agregue aquí el PDF del Avance 1)
+└── 
 ```
 
 Las imágenes generadas, las imágenes públicas descargadas y los pesos del modelo entrenado no se suben al repositorio: el cuaderno los reconstruye en cada ejecución (ver `.gitignore`).
