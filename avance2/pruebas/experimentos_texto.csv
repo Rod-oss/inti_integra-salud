@@ -1,0 +1,25 @@
+﻿preprocesamiento,representación,modelo,F1 macro,desviación
+stopwords personalizadas + stemming,TF-IDF + caracteres,SVM lineal,0.89,0.018
+stopwords estándar + stemming,TF-IDF + caracteres,SVM lineal,0.879,0.02
+stopwords personalizadas + lematización,TF-IDF + caracteres,SVM lineal,0.879,0.031
+solo normalización,TF-IDF + caracteres,SVM lineal,0.879,0.029
+stopwords personalizadas + lematización,TF-IDF + caracteres,Naive Bayes,0.844,0.034
+stopwords personalizadas + stemming,TF-IDF + caracteres,Naive Bayes,0.842,0.032
+solo normalización,TF-IDF + caracteres,Naive Bayes,0.841,0.042
+stopwords estándar + stemming,TF-IDF + caracteres,Naive Bayes,0.839,0.038
+solo normalización,TF-IDF,SVM lineal,0.836,0.046
+stopwords personalizadas + lematización,BoW,SVM lineal,0.831,0.04
+stopwords personalizadas + stemming,BoW,SVM lineal,0.825,0.02
+solo normalización,BoW,SVM lineal,0.824,0.04
+stopwords personalizadas + lematización,TF-IDF,SVM lineal,0.823,0.023
+stopwords personalizadas + stemming,TF-IDF,SVM lineal,0.819,0.026
+stopwords estándar + stemming,BoW,SVM lineal,0.805,0.024
+solo normalización,TF-IDF,Naive Bayes,0.795,0.052
+solo normalización,BoW,Naive Bayes,0.793,0.051
+stopwords personalizadas + stemming,BoW,Naive Bayes,0.785,0.035
+stopwords personalizadas + lematización,BoW,Naive Bayes,0.78,0.032
+stopwords estándar + stemming,TF-IDF,SVM lineal,0.779,0.031
+stopwords personalizadas + stemming,TF-IDF,Naive Bayes,0.778,0.028
+stopwords personalizadas + lematización,TF-IDF,Naive Bayes,0.776,0.032
+stopwords estándar + stemming,BoW,Naive Bayes,0.768,0.016
+stopwords estándar + stemming,TF-IDF,Naive Bayes,0.76,0.023

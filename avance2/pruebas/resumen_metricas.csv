@@ -1,0 +1,15 @@
+﻿componente,métrica,valor
+texto,accuracy,0.967
+texto,precision macro,0.967
+texto,recall macro,0.967
+texto,F1 macro,0.966
+texto,precisión de intención con umbral,0.958
+texto,fallback en mensajes del dominio,0.017
+texto,fallback en mensajes fuera de dominio,0.467
+visión,accuracy,1.0
+visión,precision macro,1.0
+visión,recall macro,1.0
+visión,F1 macro,1.0
+visión,accuracy en estrés,0.875
+visión,F1 macro en estrés,0.871
+visión,solicitudes de nueva foto en estrés,0.217

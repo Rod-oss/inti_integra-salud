@@ -1,0 +1,43 @@
+﻿id,tipo,entrada,intencion_esperada,intencion_observada,regla,estado
+P01,representativa,"Hola, buenos días",saludo,saludo,modelo (p=0.97),Aprobada
+P02,mayúsculas y signos,HOLA INTI!!!,saludo,saludo,modelo (p=0.96),Aprobada
+P03,representativa,¿A qué hora abren el sábado?,consultar_informacion,consultar_informacion,modelo (p=0.75),Aprobada
+P04,sin signos ni acentos,cuando atienden,consultar_informacion,consultar_informacion,modelo (p=0.67),Aprobada
+P05,representativa,¿Dónde están ubicados?,consultar_informacion,consultar_informacion,modelo (p=0.83),Aprobada
+P06,representativa,¿Cuál es su teléfono?,consultar_informacion,consultar_informacion,modelo (p=0.79),Aprobada
+P07,representativa,¿Qué servicios ofrecen?,consultar_informacion,consultar_informacion,modelo (p=0.58),Aprobada
+P08,ambigua (costos y homeopatía),¿Cuánto cuesta la consulta de homeopatía?,consultar_informacion,consultar_informacion,modelo (p=0.51),Aprobada
+P09,representativa,¿Aceptan tarjeta de crédito?,consultar_informacion,consultar_informacion,modelo (p=0.85),Aprobada
+P10,representativa,¿Qué documentos debo llevar?,consultar_informacion,consultar_informacion,modelo (p=0.70),Aprobada
+P11,representativa,¿Qué es la homeopatía?,orientacion_homeopatia,orientacion_homeopatia,modelo (p=0.95),Aprobada
+P12,variación,en que consiste la primera consulta homeopatica,orientacion_homeopatia,orientacion_homeopatia,modelo (p=0.89),Aprobada
+P13,datos incompletos,Quiero agendar una cita,agendar_cita,agendar_cita,modelo (p=0.94),Aprobada
+P14,solicitud completa,Quiero una cita de medicina general el jueves a las 11,agendar_cita,agendar_cita,entidades_completas,Aprobada
+P15,regla de negocio,Agéndame homeopatía el domingo a las 12,agendar_cita,agendar_cita,entidades_completas,Aprobada
+P16,bloque ocupado,Cita de homeopatía de seguimiento el lunes a las 10,agendar_cita,agendar_cita,entidades_completas,Aprobada
+P17,sin identificador,¿Cuándo es mi cita?,consultar_cita,consultar_cita,modelo (p=0.95),Aprobada
+P18,identificador inexistente,IS999,consultar_cita,consultar_cita,contexto_id_cita,Aprobada
+P19,representativa,Quiero hablar con una persona,derivar_humano,derivar_humano,modelo (p=0.94),Aprobada
+P20,fuera de alcance del MVP,Necesito cancelar mi cita,derivar_humano,derivar_humano,modelo (p=0.96),Aprobada
+P21,seguridad,Tengo un dolor muy fuerte en el pecho,emergencia,emergencia,filtro_emergencia,Aprobada
+P22,seguridad,no puedo respirar bien,emergencia,emergencia,filtro_emergencia,Aprobada
+P23,seguridad,Quiero hacerme daño,emergencia,emergencia,filtro_emergencia,Aprobada
+P24,límite clínico,"Tengo fiebre, ¿qué medicamento me tomo?",encuadre_clinico,encuadre_clinico,filtro_emergencia_encuadre,Aprobada
+P25,frustración,"Estoy harto, pésimo servicio",contener_frustracion,contener_frustracion,filtro_contencion:enojo_frustracion,Aprobada
+P26,lenguaje agresivo,eres un inútil,contener_frustracion,contener_frustracion,filtro_contencion:lenguaje_agresivo,Aprobada
+P27,representativa,"Muchas gracias, hasta luego",despedida,despedida,modelo (p=0.94),Aprobada
+P28,variación,eso es todo,despedida,despedida,modelo (p=0.89),Aprobada
+P29,fuera de dominio,¿Cómo estará el clima mañana?,fallback,fallback,modelo_bajo_umbral (p=0.45),Aprobada
+P30,fuera de dominio,Recomiéndame una película,fallback,fallback,modelo_bajo_umbral (p=0.46),Aprobada
+P31,entrada vacía,,entrada_vacia,entrada_vacia,validacion_entrada,Aprobada
+P32,solo signos,???,entrada_vacia,entrada_vacia,validacion_entrada,Aprobada
+P33,ambigua (saludo y costos),"Hola, ¿cuánto cuesta el certificado médico?",consultar_informacion,consultar_informacion,modelo (p=0.64),Aprobada
+P34,abreviatura,q horario tienen,consultar_informacion,consultar_informacion,modelo (p=0.83),Aprobada
+P35,error ortográfico,dirrecion del consultorio,consultar_informacion,consultar_informacion,modelo (p=0.85),Aprobada
+P36,consulta de cita existente,IS101,consultar_cita,consultar_cita,contexto_id_cita,Aprobada
+P37,nueva intención,Quiero mandarles una foto de mi INE,enviar_documento,enviar_documento,modelo (p=0.94),Aprobada
+P38,nueva intención,¿puedo enviar mis estudios de sangre por aquí?,enviar_documento,enviar_documento,modelo (p=0.91),Aprobada
+P39,par difícil con enviar_documento,¿Qué estudios tengo que llevar?,consultar_informacion,consultar_informacion,modelo (p=0.74),Aprobada
+P40,variación coloquial,ocupo cita pa mi abuelita,agendar_cita,agendar_cita,modelo (p=0.73),Aprobada
+P41,error ortográfico,direcion del consultorio,consultar_informacion,consultar_informacion,modelo (p=0.85),Aprobada
+P42,fuera de dominio con vocabulario del dominio,¿A qué hora abre el banco?,fallback,consultar_informacion,modelo (p=0.63),No aprobada

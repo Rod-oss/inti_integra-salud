@@ -1,0 +1,6 @@
+﻿mensaje,real,predicho,probabilidad
+¿me da su correo para escribirles?,consultar_informacion,consultar_informacion,0.5
+necesito ver al doctor esta semana,agendar_cita,consultar_informacion,0.28
+agéndeme para homeopatía,agendar_cita,orientacion_homeopatia,0.77
+revísame la cita porfa,consultar_cita,agendar_cita,0.56
+¿se puede recorrer mi cita?,derivar_humano,consultar_cita,0.81

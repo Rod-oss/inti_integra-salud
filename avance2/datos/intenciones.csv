@@ -1,0 +1,644 @@
+﻿id,texto,intencion,tema,conjunto,fuente
+T001,hola,saludo,,desarrollo,sintetico_v1
+T002,"buenos días, ¿me atienden?",saludo,,desarrollo,sintetico_v1
+T003,buenas tardes,saludo,,desarrollo,sintetico_v1
+T004,buenas noches,saludo,,desarrollo,sintetico_v1
+T005,qué tal,saludo,,desarrollo,sintetico_v1
+T006,hola asistente,saludo,,desarrollo,sintetico_v1
+T007,"hola, ¿me puede ayudar?",saludo,,desarrollo,sintetico_v1
+T008,buen día,saludo,,desarrollo,sintetico_v1
+T009,buenos dias inti,saludo,,desarrollo,sintetico_v1
+T010,holaa,saludo,,desarrollo,sintetico_v1
+T011,ola,saludo,,desarrollo,sintetico_v1
+T012,hola que tal,saludo,,desarrollo,sintetico_v1
+T013,buenas,saludo,,desarrollo,sintetico_v1
+T014,muy buenas tardes,saludo,,desarrollo,sintetico_v1
+T015,"hola, necesito ayuda",saludo,,desarrollo,sintetico_v1
+T016,"hola, me podrías apoyar",saludo,,desarrollo,sintetico_v1
+T017,"hola, quisiera información",saludo,,desarrollo,sintetico_v1
+T018,saludos,saludo,,desarrollo,sintetico_v1
+T019,hey,saludo,,desarrollo,sintetico_v1
+T020,hola buenas,saludo,,desarrollo,sintetico_v1
+T021,buenas tardes señorita,saludo,,desarrollo,sintetico_v1
+T022,"buenos días, ¿con quién tengo el gusto?",saludo,,desarrollo,sintetico_v1
+T023,"hola, ¿hay alguien?",saludo,,desarrollo,sintetico_v1
+T024,qué onda,saludo,,desarrollo,sintetico_v1
+T025,"hola, ¿está disponible?",saludo,,desarrollo,sintetico_v1
+T026,"buenas noches, disculpe la hora",saludo,,desarrollo,sintetico_v1
+T027,"hola, ¿me atiende por favor?",saludo,,desarrollo,sintetico_v1
+T028,bunas tardes,saludo,,desarrollo,sintetico_v1
+T029,hola buen dia,saludo,,desarrollo,sintetico_v1
+T030,holi,saludo,,desarrollo,sintetico_v1
+T031,"hola inti, ¿cómo estás?",saludo,,desarrollo,sintetico_v1
+T032,¿bueno?,saludo,,desarrollo,sintetico_v1
+T033,"buenos días, una pregunta",saludo,,desarrollo,sintetico_v1
+T034,"hola, soy nueva aquí",saludo,,desarrollo,sintetico_v1
+T035,"buenas, ¿me pueden orientar?",saludo,,desarrollo,sintetico_v1
+T036,"qué tal, buenas tardes",saludo,,desarrollo,sintetico_v1
+T037,"hola, disculpe",saludo,,desarrollo,sintetico_v1
+T038,"buenas tardes, necesito apoyo",saludo,,desarrollo,sintetico_v1
+T039,"hola, ayuda por favor",saludo,,desarrollo,sintetico_v1
+T040,"buen dia, ¿me ayuda?",saludo,,desarrollo,sintetico_v1
+T041,"hola, vengo por informes",saludo,,desarrollo,sintetico_v1
+T042,"hola, ¿qué puedes hacer?",saludo,,desarrollo,sintetico_v1
+T043,"hola, ¿cómo funciona esto?",saludo,,desarrollo,sintetico_v1
+T044,saludos cordiales,saludo,,desarrollo,sintetico_v1
+T045,"hola, ¿es el consultorio Integra Salud?",saludo,,desarrollo,sintetico_v1
+T046,"buenas tardes, ¿hablo al consultorio?",saludo,,desarrollo,sintetico_v1
+T047,hola doctor,saludo,,desarrollo,sintetico_v1
+T048,"hola, ¿me escuchan?",saludo,,desarrollo,sintetico_v1
+T049,ey hola,saludo,,desarrollo,sintetico_v1
+T050,"buenos días, espero que esté bien",saludo,,desarrollo,sintetico_v1
+T051,"hola, buenas noches",saludo,,desarrollo,sintetico_v1
+T052,holaaa buenas,saludo,,desarrollo,sintetico_v1
+T053,que tal inti,saludo,,desarrollo,sintetico_v1
+T054,hola de nuevo,saludo,,desarrollo,sintetico_v1
+T055,"otra vez yo, hola",saludo,,desarrollo,sintetico_v1
+T056,"hola, ¿con quién hablo?",saludo,,desarrollo,sintetico_v1
+T057,"buenos días, apenas los encontré",saludo,,desarrollo,sintetico_v1
+T058,"hola, primera vez que escribo",saludo,,desarrollo,sintetico_v1
+T059,"hola, me recomendaron este número",saludo,,desarrollo,sintetico_v1
+T060,buenas buenas,saludo,,desarrollo,sintetico_v1
+T061,¿cuál es su horario?,consultar_informacion,horarios,desarrollo,sintetico_v1
+T062,¿a qué hora abren?,consultar_informacion,horarios,desarrollo,sintetico_v1
+T063,¿a qué hora cierran hoy?,consultar_informacion,horarios,desarrollo,sintetico_v1
+T064,¿abren los sábados?,consultar_informacion,horarios,desarrollo,sintetico_v1
+T065,¿trabajan en domingo?,consultar_informacion,horarios,desarrollo,sintetico_v1
+T066,horario de atención por favor,consultar_informacion,horarios,desarrollo,sintetico_v1
+T067,¿hasta qué hora atienden entre semana?,consultar_informacion,horarios,desarrollo,sintetico_v1
+T068,a q hora abren mañana,consultar_informacion,horarios,desarrollo,sintetico_v1
+T069,¿están abiertos ahorita?,consultar_informacion,horarios,desarrollo,sintetico_v1
+T070,¿dónde se encuentra el consultorio?,consultar_informacion,ubicacion,desarrollo,sintetico_v1
+T071,¿cuál es la dirección?,consultar_informacion,ubicacion,desarrollo,sintetico_v1
+T072,¿cómo llego al consultorio?,consultar_informacion,ubicacion,desarrollo,sintetico_v1
+T073,mándame la ubicación,consultar_informacion,ubicacion,desarrollo,sintetico_v1
+T074,¿en qué colonia están?,consultar_informacion,ubicacion,desarrollo,sintetico_v1
+T075,¿hay estacionamiento cerca del consultorio?,consultar_informacion,ubicacion,desarrollo,sintetico_v1
+T076,¿están por el centro?,consultar_informacion,ubicacion,desarrollo,sintetico_v1
+T077,pásame la ubicación en maps,consultar_informacion,ubicacion,desarrollo,sintetico_v1
+T078,¿cuál es su domicilio?,consultar_informacion,ubicacion,desarrollo,sintetico_v1
+T079,¿qué teléfono tienen?,consultar_informacion,contacto,desarrollo,sintetico_v1
+T080,¿tienen whatsapp?,consultar_informacion,contacto,desarrollo,sintetico_v1
+T081,¿a qué número les marco?,consultar_informacion,contacto,desarrollo,sintetico_v1
+T082,¿tienen correo electrónico?,consultar_informacion,contacto,desarrollo,sintetico_v1
+T083,¿cómo me comunico con ustedes?,consultar_informacion,contacto,desarrollo,sintetico_v1
+T084,dame el telefono del consultorio,consultar_informacion,contacto,desarrollo,sintetico_v1
+T085,¿a dónde puedo llamar?,consultar_informacion,contacto,desarrollo,sintetico_v1
+T086,¿me pasas un número de contacto?,consultar_informacion,contacto,desarrollo,sintetico_v1
+T087,¿tienen algún email?,consultar_informacion,contacto,desarrollo,sintetico_v1
+T088,¿con qué servicios cuentan?,consultar_informacion,servicios,desarrollo,sintetico_v1
+T089,¿qué especialidades tienen?,consultar_informacion,servicios,desarrollo,sintetico_v1
+T090,¿dan consulta de medicina general?,consultar_informacion,servicios,desarrollo,sintetico_v1
+T091,¿hacen certificados médicos?,consultar_informacion,servicios,desarrollo,sintetico_v1
+T092,¿qué tipo de consultas manejan?,consultar_informacion,servicios,desarrollo,sintetico_v1
+T093,¿atienden niños?,consultar_informacion,servicios,desarrollo,sintetico_v1
+T094,¿también tienen homeopatía?,consultar_informacion,servicios,desarrollo,sintetico_v1
+T095,¿qué hacen en el consultorio?,consultar_informacion,servicios,desarrollo,sintetico_v1
+T096,¿expiden certificado para la escuela?,consultar_informacion,servicios,desarrollo,sintetico_v1
+T097,¿cuánto cuesta la consulta?,consultar_informacion,costos,desarrollo,sintetico_v1
+T098,¿cuál es el precio de la consulta general?,consultar_informacion,costos,desarrollo,sintetico_v1
+T099,¿cuánto cobran por el certificado médico?,consultar_informacion,costos,desarrollo,sintetico_v1
+T100,precio de la consulta de homeopatía,consultar_informacion,costos,desarrollo,sintetico_v1
+T101,¿cuánto sale la consulta de seguimiento?,consultar_informacion,costos,desarrollo,sintetico_v1
+T102,¿qué costo tiene la primera vez?,consultar_informacion,costos,desarrollo,sintetico_v1
+T103,¿cuánto es por consulta?,consultar_informacion,costos,desarrollo,sintetico_v1
+T104,tarifas por favor,consultar_informacion,costos,desarrollo,sintetico_v1
+T105,¿la consulta tiene costo?,consultar_informacion,costos,desarrollo,sintetico_v1
+T106,¿aceptan tarjeta?,consultar_informacion,metodos_pago,desarrollo,sintetico_v1
+T107,¿puedo pagar con transferencia?,consultar_informacion,metodos_pago,desarrollo,sintetico_v1
+T108,¿reciben efectivo?,consultar_informacion,metodos_pago,desarrollo,sintetico_v1
+T109,¿cobran con tarjeta de crédito?,consultar_informacion,metodos_pago,desarrollo,sintetico_v1
+T110,¿cómo se paga la consulta?,consultar_informacion,metodos_pago,desarrollo,sintetico_v1
+T111,¿formas de pago?,consultar_informacion,metodos_pago,desarrollo,sintetico_v1
+T112,¿se puede pagar con débito?,consultar_informacion,metodos_pago,desarrollo,sintetico_v1
+T113,¿aceptan pagos con tarjeta o solo efectivo?,consultar_informacion,metodos_pago,desarrollo,sintetico_v1
+T114,¿puedo transferir antes de la cita?,consultar_informacion,metodos_pago,desarrollo,sintetico_v1
+T115,¿qué documentos me piden?,consultar_informacion,documentos,desarrollo,sintetico_v1
+T116,¿qué necesito llevar a la consulta?,consultar_informacion,documentos,desarrollo,sintetico_v1
+T117,¿hay que llevar identificación?,consultar_informacion,documentos,desarrollo,sintetico_v1
+T118,¿llevo mis estudios anteriores?,consultar_informacion,documentos,desarrollo,sintetico_v1
+T119,requisitos para la consulta,consultar_informacion,documentos,desarrollo,sintetico_v1
+T120,¿qué papeles piden?,consultar_informacion,documentos,desarrollo,sintetico_v1
+T121,¿tengo que llevar mis recetas?,consultar_informacion,documentos,desarrollo,sintetico_v1
+T122,¿necesito llevar algo para el certificado?,consultar_informacion,documentos,desarrollo,sintetico_v1
+T123,¿qué debo presentar el día de la cita?,consultar_informacion,documentos,desarrollo,sintetico_v1
+T124,¿qué significa homeopatía?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T125,¿en qué consiste la consulta de homeopatía?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T126,¿cómo es la primera consulta homeopática?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T127,¿cómo funciona la homeopatía?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T128,¿cuál es la diferencia entre homeopatía y medicina general?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T129,¿el doctor es homeópata?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T130,¿qué me van a preguntar en la consulta de homeopatía?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T131,¿la homeopatía es para todos?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T132,explícame qué es la homeopatía,orientacion_homeopatia,,desarrollo,sintetico_v1
+T133,quiero saber más de la homeopatía,orientacion_homeopatia,,desarrollo,sintetico_v1
+T134,¿cuánto dura la consulta homeopática?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T135,¿la homeopatía sustituye a la medicina normal?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T136,¿por qué la consulta de homeopatía dura más?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T137,¿qué diferencia hay con la alopatía?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T138,¿la homeopatía es medicina alternativa?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T139,"nunca he ido con un homeópata, ¿cómo es?",orientacion_homeopatia,,desarrollo,sintetico_v1
+T140,¿cómo me preparo para la consulta de homeopatía?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T141,homeopatia que es,orientacion_homeopatia,,desarrollo,sintetico_v1
+T142,¿qué hace un homeópata?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T143,¿la homeopatía tiene base científica?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T144,¿me pueden explicar la homeopatía?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T145,"mi mamá quiere ir a homeopatía, ¿cómo es la consulta?",orientacion_homeopatia,,desarrollo,sintetico_v1
+T146,¿la consulta homeopática es diferente a la normal?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T147,¿qué incluye la valoración homeopática?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T148,¿es lo mismo homeopatía que naturismo?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T149,¿qué pasa en la primera cita de homeopatía?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T150,cuéntame sobre la homeopatía,orientacion_homeopatia,,desarrollo,sintetico_v1
+T151,¿la homeopatía es con chochitos?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T152,¿en qué se basa la homeopatía?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T153,¿homeopatía y alopatía se pueden llevar juntas?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T154,¿qué tipo de entrevista hacen en homeopatía?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T155,quiero entender la consulta homeopática antes de ir,orientacion_homeopatia,,desarrollo,sintetico_v1
+T156,¿cuál es el enfoque de la homeopatía?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T157,¿por qué preguntan tanto en homeopatía?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T158,"homeópata o médico general, ¿cuál me conviene?",orientacion_homeopatia,,desarrollo,sintetico_v1
+T159,q es la homeopatia,orientacion_homeopatia,,desarrollo,sintetico_v1
+T160,homeopatía en qué consiste,orientacion_homeopatia,,desarrollo,sintetico_v1
+T161,"homeopatia, como es el procedimiento",orientacion_homeopatia,,desarrollo,sintetico_v1
+T162,que onda con la homeopatia,orientacion_homeopatia,,desarrollo,sintetico_v1
+T163,"me interesa la homeopatía, ¿cómo es?",orientacion_homeopatia,,desarrollo,sintetico_v1
+T164,¿qué es eso de la homeopatía?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T165,¿es buena la homeopatía?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T166,¿de qué trata la consulta homeopática?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T167,explicame la consulta de homeopatia,orientacion_homeopatia,,desarrollo,sintetico_v1
+T168,homepatia que es,orientacion_homeopatia,,desarrollo,sintetico_v1
+T169,¿cómo trabaja un médico homeópata?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T170,¿el homeópata revisa igual que un doctor normal?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T171,¿en homeopatía también te auscultan?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T172,¿qué diferencia hay entre un homeópata y un médico general?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T173,¿la homeopatía es natural?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T174,¿cuál es la filosofía de la homeopatía?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T175,¿cómo es una sesión de homeopatía?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T176,antes de agendar quiero saber qué es la homeopatía,orientacion_homeopatia,,desarrollo,sintetico_v1
+T177,¿cómo es la consulta de homeopatía para niños?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T178,¿la consulta homeopática es muy larga?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T179,¿qué esperar de la consulta homeopática?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T180,dudas sobre homeopatía,orientacion_homeopatia,,desarrollo,sintetico_v1
+T181,tengo curiosidad por la homeopatía,orientacion_homeopatia,,desarrollo,sintetico_v1
+T182,¿la homeopatía es lo mismo que la medicina tradicional?,orientacion_homeopatia,,desarrollo,sintetico_v1
+T183,"nunca he probado la homeopatía, ¿de qué se trata?",orientacion_homeopatia,,desarrollo,sintetico_v1
+T184,deseo agendar una consulta,agendar_cita,,desarrollo,sintetico_v1
+T185,quisiera sacar una cita,agendar_cita,,desarrollo,sintetico_v1
+T186,¿me agenda una cita?,agendar_cita,,desarrollo,sintetico_v1
+T187,agéndame para el jueves,agendar_cita,,desarrollo,sintetico_v1
+T188,necesito una cita de medicina general,agendar_cita,,desarrollo,sintetico_v1
+T189,quiero cita de homeopatía el lunes a las 11,agendar_cita,,desarrollo,sintetico_v1
+T190,¿tienen espacio el sábado?,agendar_cita,,desarrollo,sintetico_v1
+T191,¿hay chance de una cita mañana?,agendar_cita,,desarrollo,sintetico_v1
+T192,ocupo una cita,agendar_cita,,desarrollo,sintetico_v1
+T193,quiero apartar una consulta,agendar_cita,,desarrollo,sintetico_v1
+T194,¿puedo reservar una consulta?,agendar_cita,,desarrollo,sintetico_v1
+T195,programar cita,agendar_cita,,desarrollo,sintetico_v1
+T196,¿cómo pido una cita?,agendar_cita,,desarrollo,sintetico_v1
+T197,quiero hacer una cita para mi mamá,agendar_cita,,desarrollo,sintetico_v1
+T198,necesito cita para mi papá el viernes,agendar_cita,,desarrollo,sintetico_v1
+T199,me gustaría agendar una consulta de seguimiento,agendar_cita,,desarrollo,sintetico_v1
+T200,¿me pueden dar una cita para un certificado médico?,agendar_cita,,desarrollo,sintetico_v1
+T201,quiero una consulta de primera vez,agendar_cita,,desarrollo,sintetico_v1
+T202,cita para el martes en la tarde,agendar_cita,,desarrollo,sintetico_v1
+T203,agenda una cita a las 4 pm,agendar_cita,,desarrollo,sintetico_v1
+T204,quiero ir el miércoles,agendar_cita,,desarrollo,sintetico_v1
+T205,¿hay lugar el jueves a las 12?,agendar_cita,,desarrollo,sintetico_v1
+T206,resérvame una cita porfa,agendar_cita,,desarrollo,sintetico_v1
+T207,quiero sacar cita para homeopatía,agendar_cita,,desarrollo,sintetico_v1
+T208,¿qué días tienen disponibles para cita?,agendar_cita,,desarrollo,sintetico_v1
+T209,¿qué horarios tienen libres el lunes?,agendar_cita,,desarrollo,sintetico_v1
+T210,necesito una consulta lo antes posible,agendar_cita,,desarrollo,sintetico_v1
+T211,¿me pueden atender el sábado a las 11?,agendar_cita,,desarrollo,sintetico_v1
+T212,quiero consulta con el doctor,agendar_cita,,desarrollo,sintetico_v1
+T213,cita para certificado médico escolar,agendar_cita,,desarrollo,sintetico_v1
+T214,quiero agendar para mi hijo,agendar_cita,,desarrollo,sintetico_v1
+T215,aparta una cita de homeopatia para el viernes,agendar_cita,,desarrollo,sintetico_v1
+T216,agendar consulta general jueves 10 am,agendar_cita,,desarrollo,sintetico_v1
+T217,quisiera una cita la próxima semana,agendar_cita,,desarrollo,sintetico_v1
+T218,¿puedo ir hoy?,agendar_cita,,desarrollo,sintetico_v1
+T219,hacer cita,agendar_cita,,desarrollo,sintetico_v1
+T220,nueva cita,agendar_cita,,desarrollo,sintetico_v1
+T221,quiero una cita de control,agendar_cita,,desarrollo,sintetico_v1
+T222,me gustaria una cita de seguimiento de homeopatia,agendar_cita,,desarrollo,sintetico_v1
+T223,¿tienen citas disponibles?,agendar_cita,,desarrollo,sintetico_v1
+T224,quiero ver al doctor el lunes,agendar_cita,,desarrollo,sintetico_v1
+T225,¿cuándo me pueden dar cita?,agendar_cita,,desarrollo,sintetico_v1
+T226,dame una cita,agendar_cita,,desarrollo,sintetico_v1
+T227,ajendar cita,agendar_cita,,desarrollo,sintetico_v1
+T228,qiero una cita,agendar_cita,,desarrollo,sintetico_v1
+T229,¿me apartas un lugar el sábado?,agendar_cita,,desarrollo,sintetico_v1
+T230,quiero reservar para el miercoles a las 5,agendar_cita,,desarrollo,sintetico_v1
+T231,quiero programar mi consulta,agendar_cita,,desarrollo,sintetico_v1
+T232,necesito sacar cita para un certificado,agendar_cita,,desarrollo,sintetico_v1
+T233,apúntame para el jueves,agendar_cita,,desarrollo,sintetico_v1
+T234,¿me pueden anotar para el viernes?,agendar_cita,,desarrollo,sintetico_v1
+T235,"quiero cita, primera vez, homeopatía",agendar_cita,,desarrollo,sintetico_v1
+T236,cita medicina general martes 11:00,agendar_cita,,desarrollo,sintetico_v1
+T237,¿puedo agendar por aquí?,agendar_cita,,desarrollo,sintetico_v1
+T238,voy a querer una cita,agendar_cita,,desarrollo,sintetico_v1
+T239,quiero una consulta para mi abuelita,agendar_cita,,desarrollo,sintetico_v1
+T240,agéndame en la mañana,agendar_cita,,desarrollo,sintetico_v1
+T241,¿hay citas en la tarde?,agendar_cita,,desarrollo,sintetico_v1
+T242,reservar cita,agendar_cita,,desarrollo,sintetico_v1
+T243,quiero que me agenden,agendar_cita,,desarrollo,sintetico_v1
+T244,¿qué fecha tiene mi cita?,consultar_cita,,desarrollo,sintetico_v1
+T245,quiero ver mi cita,consultar_cita,,desarrollo,sintetico_v1
+T246,consultar mi cita,consultar_cita,,desarrollo,sintetico_v1
+T247,¿a qué hora es mi cita?,consultar_cita,,desarrollo,sintetico_v1
+T248,revisa mi cita por favor,consultar_cita,,desarrollo,sintetico_v1
+T249,"ya tengo cita, ¿me confirmas los datos?",consultar_cita,,desarrollo,sintetico_v1
+T250,mi folio es IS101,consultar_cita,,desarrollo,sintetico_v1
+T251,¿me recuerdas mi cita?,consultar_cita,,desarrollo,sintetico_v1
+T252,¿qué día quedó mi cita?,consultar_cita,,desarrollo,sintetico_v1
+T253,estado de mi cita,consultar_cita,,desarrollo,sintetico_v1
+T254,¿mi cita sigue en pie?,consultar_cita,,desarrollo,sintetico_v1
+T255,quiero confirmar mi cita,consultar_cita,,desarrollo,sintetico_v1
+T256,¿para cuándo quedé agendado?,consultar_cita,,desarrollo,sintetico_v1
+T257,olvidé la hora de mi cita,consultar_cita,,desarrollo,sintetico_v1
+T258,no me acuerdo qué día es mi cita,consultar_cita,,desarrollo,sintetico_v1
+T259,¿tengo cita esta semana?,consultar_cita,,desarrollo,sintetico_v1
+T260,checa mi cita,consultar_cita,,desarrollo,sintetico_v1
+T261,¿a qué hora me toca?,consultar_cita,,desarrollo,sintetico_v1
+T262,datos de mi cita,consultar_cita,,desarrollo,sintetico_v1
+T263,¿me puedes decir cuándo me toca consulta?,consultar_cita,,desarrollo,sintetico_v1
+T264,quiero revisar la cita de mi mamá,consultar_cita,,desarrollo,sintetico_v1
+T265,¿la cita de mi papá es el jueves?,consultar_cita,,desarrollo,sintetico_v1
+T266,¿está confirmada mi consulta?,consultar_cita,,desarrollo,sintetico_v1
+T267,buscar mi cita,consultar_cita,,desarrollo,sintetico_v1
+T268,mi número de cita es IS102,consultar_cita,,desarrollo,sintetico_v1
+T269,"tengo el código IS105, ¿qué día es?",consultar_cita,,desarrollo,sintetico_v1
+T270,¿qué servicio agendé?,consultar_cita,,desarrollo,sintetico_v1
+T271,¿con qué identificador quedó mi cita?,consultar_cita,,desarrollo,sintetico_v1
+T272,¿mi cita es de homeopatía o de medicina general?,consultar_cita,,desarrollo,sintetico_v1
+T273,consulta de cita,consultar_cita,,desarrollo,sintetico_v1
+T274,ver cita,consultar_cita,,desarrollo,sintetico_v1
+T275,mi cita,consultar_cita,,desarrollo,sintetico_v1
+T276,¿sí quedó registrada mi cita?,consultar_cita,,desarrollo,sintetico_v1
+T277,¿se guardó mi cita?,consultar_cita,,desarrollo,sintetico_v1
+T278,¿me confirmas la hora?,consultar_cita,,desarrollo,sintetico_v1
+T279,¿a qué hora debo llegar a mi cita?,consultar_cita,,desarrollo,sintetico_v1
+T280,quiero saber cuándo es mi consulta,consultar_cita,,desarrollo,sintetico_v1
+T281,¿cuando es mi sita?,consultar_cita,,desarrollo,sintetico_v1
+T282,cuando me toca,consultar_cita,,desarrollo,sintetico_v1
+T283,revisar mi reservación,consultar_cita,,desarrollo,sintetico_v1
+T284,¿qué día tengo mi consulta?,consultar_cita,,desarrollo,sintetico_v1
+T285,¿mi consulta es mañana?,consultar_cita,,desarrollo,sintetico_v1
+T286,busca mi reserva,consultar_cita,,desarrollo,sintetico_v1
+T287,"ya agendé, ¿cómo veo mi cita?",consultar_cita,,desarrollo,sintetico_v1
+T288,¿dónde veo mi cita?,consultar_cita,,desarrollo,sintetico_v1
+T289,quiero ver los detalles de mi cita,consultar_cita,,desarrollo,sintetico_v1
+T290,detalles de la reserva,consultar_cita,,desarrollo,sintetico_v1
+T291,¿mi cita es a las 4?,consultar_cita,,desarrollo,sintetico_v1
+T292,verificar cita,consultar_cita,,desarrollo,sintetico_v1
+T293,tengo una cita y no recuerdo la hora,consultar_cita,,desarrollo,sintetico_v1
+T294,¿me ayudas a ubicar mi cita?,consultar_cita,,desarrollo,sintetico_v1
+T295,perdí el número de mi cita,consultar_cita,,desarrollo,sintetico_v1
+T296,¿sigue vigente mi cita del sábado?,consultar_cita,,desarrollo,sintetico_v1
+T297,quiero corroborar mi cita,consultar_cita,,desarrollo,sintetico_v1
+T298,consultar reserva,consultar_cita,,desarrollo,sintetico_v1
+T299,¿me pasas la info de mi cita?,consultar_cita,,desarrollo,sintetico_v1
+T300,¿qué tengo agendado?,consultar_cita,,desarrollo,sintetico_v1
+T301,revisa si tengo cita,consultar_cita,,desarrollo,sintetico_v1
+T302,¿ya tengo cita registrada?,consultar_cita,,desarrollo,sintetico_v1
+T303,is104,consultar_cita,,desarrollo,sintetico_v1
+T304,deseo hablar con una persona,derivar_humano,,desarrollo,sintetico_v1
+T305,necesito atención humana,derivar_humano,,desarrollo,sintetico_v1
+T306,pásame con recepción,derivar_humano,,desarrollo,sintetico_v1
+T307,comunícame con alguien,derivar_humano,,desarrollo,sintetico_v1
+T308,prefiero hablar con alguien,derivar_humano,,desarrollo,sintetico_v1
+T309,no quiero hablar con un bot,derivar_humano,,desarrollo,sintetico_v1
+T310,hablar con un asesor,derivar_humano,,desarrollo,sintetico_v1
+T311,quiero cancelar mi cita,derivar_humano,,desarrollo,sintetico_v1
+T312,necesito reagendar mi cita,derivar_humano,,desarrollo,sintetico_v1
+T313,cambiar mi cita,derivar_humano,,desarrollo,sintetico_v1
+T314,¿me comunicas con la recepcionista?,derivar_humano,,desarrollo,sintetico_v1
+T315,¿hay alguien real?,derivar_humano,,desarrollo,sintetico_v1
+T316,quiero hablar con el doctor,derivar_humano,,desarrollo,sintetico_v1
+T317,pásame con un humano,derivar_humano,,desarrollo,sintetico_v1
+T318,¿puedo hablar con la secretaria?,derivar_humano,,desarrollo,sintetico_v1
+T319,necesito que me llame alguien,derivar_humano,,desarrollo,sintetico_v1
+T320,¿alguien me puede marcar?,derivar_humano,,desarrollo,sintetico_v1
+T321,quiero que me atienda una persona,derivar_humano,,desarrollo,sintetico_v1
+T322,esto lo prefiero ver con una persona,derivar_humano,,desarrollo,sintetico_v1
+T323,cancela mi cita por favor,derivar_humano,,desarrollo,sintetico_v1
+T324,"ya no voy a poder ir, quiero cancelar",derivar_humano,,desarrollo,sintetico_v1
+T325,¿puedo mover mi cita para otro día?,derivar_humano,,desarrollo,sintetico_v1
+T326,necesito cambiar la hora de mi cita,derivar_humano,,desarrollo,sintetico_v1
+T327,reprogramar mi consulta,derivar_humano,,desarrollo,sintetico_v1
+T328,no voy a llegar a mi cita,derivar_humano,,desarrollo,sintetico_v1
+T329,quiero hablar con alguien del consultorio,derivar_humano,,desarrollo,sintetico_v1
+T330,contacto con un humano,derivar_humano,,desarrollo,sintetico_v1
+T331,operador,derivar_humano,,desarrollo,sintetico_v1
+T332,agente humano,derivar_humano,,desarrollo,sintetico_v1
+T333,¿me transfieres con alguien?,derivar_humano,,desarrollo,sintetico_v1
+T334,necesito hablar con el médico directamente,derivar_humano,,desarrollo,sintetico_v1
+T335,¿puedo hablar con la doctora?,derivar_humano,,desarrollo,sintetico_v1
+T336,quiero poner una queja con el encargado,derivar_humano,,desarrollo,sintetico_v1
+T337,quiero hablar con el responsable,derivar_humano,,desarrollo,sintetico_v1
+T338,¿me pasas con alguien que sí me entienda?,derivar_humano,,desarrollo,sintetico_v1
+T339,prefiero llamar,derivar_humano,,desarrollo,sintetico_v1
+T340,¿alguien de carne y hueso?,derivar_humano,,desarrollo,sintetico_v1
+T341,persona real por favor,derivar_humano,,desarrollo,sintetico_v1
+T342,humano,derivar_humano,,desarrollo,sintetico_v1
+T343,recepción,derivar_humano,,desarrollo,sintetico_v1
+T344,quiero cancelar la cita de mi mamá,derivar_humano,,desarrollo,sintetico_v1
+T345,reagendar la consulta de mi papá,derivar_humano,,desarrollo,sintetico_v1
+T346,cambiar mi cita del jueves al viernes,derivar_humano,,desarrollo,sintetico_v1
+T347,¿se puede cancelar?,derivar_humano,,desarrollo,sintetico_v1
+T348,cancelación de cita,derivar_humano,,desarrollo,sintetico_v1
+T349,necesito posponer mi cita,derivar_humano,,desarrollo,sintetico_v1
+T350,¿me puede contactar alguien del consultorio?,derivar_humano,,desarrollo,sintetico_v1
+T351,quiero que me devuelvan la llamada,derivar_humano,,desarrollo,sintetico_v1
+T352,hablar con personal,derivar_humano,,desarrollo,sintetico_v1
+T353,atención personalizada por favor,derivar_humano,,desarrollo,sintetico_v1
+T354,mejor comunícame con alguien,derivar_humano,,desarrollo,sintetico_v1
+T355,¿hay alguna persona que me atienda?,derivar_humano,,desarrollo,sintetico_v1
+T356,me gustaría hablar con un asesor humano,derivar_humano,,desarrollo,sintetico_v1
+T357,"no me sirve el chat, quiero una persona",derivar_humano,,desarrollo,sintetico_v1
+T358,deseo cancelar,derivar_humano,,desarrollo,sintetico_v1
+T359,cambiar fecha de mi cita,derivar_humano,,desarrollo,sintetico_v1
+T360,quiero hablar por teléfono con alguien,derivar_humano,,desarrollo,sintetico_v1
+T361,pasame con alguien porfa,derivar_humano,,desarrollo,sintetico_v1
+T362,"quiero una persona, no una máquina",derivar_humano,,desarrollo,sintetico_v1
+T363,¿me puede atender la recepcionista?,derivar_humano,,desarrollo,sintetico_v1
+T364,gracias,despedida,,desarrollo,sintetico_v1
+T365,muchas gracias,despedida,,desarrollo,sintetico_v1
+T366,hasta luego,despedida,,desarrollo,sintetico_v1
+T367,adiós,despedida,,desarrollo,sintetico_v1
+T368,nos vemos,despedida,,desarrollo,sintetico_v1
+T369,eso fue todo,despedida,,desarrollo,sintetico_v1
+T370,bye,despedida,,desarrollo,sintetico_v1
+T371,mil gracias,despedida,,desarrollo,sintetico_v1
+T372,gracias por la información,despedida,,desarrollo,sintetico_v1
+T373,"perfecto, gracias",despedida,,desarrollo,sintetico_v1
+T374,ok gracias,despedida,,desarrollo,sintetico_v1
+T375,"listo, eso era todo",despedida,,desarrollo,sintetico_v1
+T376,"gracias, que tenga buen día",despedida,,desarrollo,sintetico_v1
+T377,hasta pronto,despedida,,desarrollo,sintetico_v1
+T378,"muy amable, gracias",despedida,,desarrollo,sintetico_v1
+T379,"de acuerdo, gracias",despedida,,desarrollo,sintetico_v1
+T380,"ya quedó, gracias",despedida,,desarrollo,sintetico_v1
+T381,con eso es suficiente,despedida,,desarrollo,sintetico_v1
+T382,no necesito nada más,despedida,,desarrollo,sintetico_v1
+T383,es todo por ahora,despedida,,desarrollo,sintetico_v1
+T384,gracias inti,despedida,,desarrollo,sintetico_v1
+T385,"bueno, me retiro",despedida,,desarrollo,sintetico_v1
+T386,chao,despedida,,desarrollo,sintetico_v1
+T387,chau,despedida,,desarrollo,sintetico_v1
+T388,graciaas,despedida,,desarrollo,sintetico_v1
+T389,grax,despedida,,desarrollo,sintetico_v1
+T390,"gracias, bonito día",despedida,,desarrollo,sintetico_v1
+T391,"excelente, muchas gracias",despedida,,desarrollo,sintetico_v1
+T392,"vale, gracias",despedida,,desarrollo,sintetico_v1
+T393,"sale, gracias",despedida,,desarrollo,sintetico_v1
+T394,"ok, bye",despedida,,desarrollo,sintetico_v1
+T395,"nada más, gracias",despedida,,desarrollo,sintetico_v1
+T396,eso sería todo,despedida,,desarrollo,sintetico_v1
+T397,ya no tengo dudas,despedida,,desarrollo,sintetico_v1
+T398,muchísimas gracias por tu ayuda,despedida,,desarrollo,sintetico_v1
+T399,gracias por atenderme,despedida,,desarrollo,sintetico_v1
+T400,me ayudaste mucho,despedida,,desarrollo,sintetico_v1
+T401,hasta la próxima,despedida,,desarrollo,sintetico_v1
+T402,nos vemos el jueves,despedida,,desarrollo,sintetico_v1
+T403,hasta mañana,despedida,,desarrollo,sintetico_v1
+T404,"buenas noches, gracias",despedida,,desarrollo,sintetico_v1
+T405,que estés bien,despedida,,desarrollo,sintetico_v1
+T406,cuídate,despedida,,desarrollo,sintetico_v1
+T407,adiosito,despedida,,desarrollo,sintetico_v1
+T408,"gracias, ya lo resolví",despedida,,desarrollo,sintetico_v1
+T409,"todo bien, gracias",despedida,,desarrollo,sintetico_v1
+T410,"ya está, gracias",despedida,,desarrollo,sintetico_v1
+T411,okey muchas gracias,despedida,,desarrollo,sintetico_v1
+T412,listo,despedida,,desarrollo,sintetico_v1
+T413,perfecto,despedida,,desarrollo,sintetico_v1
+T414,"va, gracias",despedida,,desarrollo,sintetico_v1
+T415,"muy bien, hasta luego",despedida,,desarrollo,sintetico_v1
+T416,gracias por tu tiempo,despedida,,desarrollo,sintetico_v1
+T417,"es todo, gracias",despedida,,desarrollo,sintetico_v1
+T418,terminamos,despedida,,desarrollo,sintetico_v1
+T419,ya me voy,despedida,,desarrollo,sintetico_v1
+T420,me despido,despedida,,desarrollo,sintetico_v1
+T421,agradezco su ayuda,despedida,,desarrollo,sintetico_v1
+T422,"gracias, saludos",despedida,,desarrollo,sintetico_v1
+T423,ok,despedida,,desarrollo,sintetico_v1
+T424,quiero enviar mi receta,enviar_documento,,desarrollo,sintetico_v1
+T425,te mando foto de mis estudios,enviar_documento,,desarrollo,sintetico_v1
+T426,¿puedo enviar mi identificación?,enviar_documento,,desarrollo,sintetico_v1
+T427,quiero adjuntar mis análisis,enviar_documento,,desarrollo,sintetico_v1
+T428,te paso mi INE,enviar_documento,,desarrollo,sintetico_v1
+T429,¿les puedo mandar mis estudios de laboratorio?,enviar_documento,,desarrollo,sintetico_v1
+T430,voy a subir una foto de mi receta,enviar_documento,,desarrollo,sintetico_v1
+T431,¿dónde subo mis documentos?,enviar_documento,,desarrollo,sintetico_v1
+T432,quiero compartir mis resultados de laboratorio,enviar_documento,,desarrollo,sintetico_v1
+T433,adjunto mi credencial,enviar_documento,,desarrollo,sintetico_v1
+T434,¿cómo les mando mis estudios?,enviar_documento,,desarrollo,sintetico_v1
+T435,"tengo mis análisis, ¿se los envío?",enviar_documento,,desarrollo,sintetico_v1
+T436,quiero cargar una imagen,enviar_documento,,desarrollo,sintetico_v1
+T437,¿puedo mandar una foto?,enviar_documento,,desarrollo,sintetico_v1
+T438,envío mi identificación oficial,enviar_documento,,desarrollo,sintetico_v1
+T439,te envío la receta anterior,enviar_documento,,desarrollo,sintetico_v1
+T440,aquí va mi receta,enviar_documento,,desarrollo,sintetico_v1
+T441,mando foto de la INE de mi mamá,enviar_documento,,desarrollo,sintetico_v1
+T442,quiero subir los estudios de mi papá,enviar_documento,,desarrollo,sintetico_v1
+T443,¿aceptan documentos por aquí?,enviar_documento,,desarrollo,sintetico_v1
+T444,¿puedo enviar la receta de mi otro doctor?,enviar_documento,,desarrollo,sintetico_v1
+T445,subir documento,enviar_documento,,desarrollo,sintetico_v1
+T446,enviar archivo,enviar_documento,,desarrollo,sintetico_v1
+T447,mandar imagen,enviar_documento,,desarrollo,sintetico_v1
+T448,tengo una foto de mis resultados,enviar_documento,,desarrollo,sintetico_v1
+T449,¿les adjunto mis estudios antes de la cita?,enviar_documento,,desarrollo,sintetico_v1
+T450,¿se puede mandar el pdf de mis análisis?,enviar_documento,,desarrollo,sintetico_v1
+T451,ahí te va la foto,enviar_documento,,desarrollo,sintetico_v1
+T452,te comparto una imagen,enviar_documento,,desarrollo,sintetico_v1
+T453,quiero enviar mi comprobante de identidad,enviar_documento,,desarrollo,sintetico_v1
+T454,mando mis laboratorios,enviar_documento,,desarrollo,sintetico_v1
+T455,¿recibes fotos?,enviar_documento,,desarrollo,sintetico_v1
+T456,¿puedo adjuntar archivos?,enviar_documento,,desarrollo,sintetico_v1
+T457,foto de receta,enviar_documento,,desarrollo,sintetico_v1
+T458,envío estudios,enviar_documento,,desarrollo,sintetico_v1
+T459,¿te puedo mandar una imagen de mi credencial de elector?,enviar_documento,,desarrollo,sintetico_v1
+T460,quiero mandar documentos para mi expediente,enviar_documento,,desarrollo,sintetico_v1
+T461,subo mi identificación,enviar_documento,,desarrollo,sintetico_v1
+T462,¿cómo adjunto una foto?,enviar_documento,,desarrollo,sintetico_v1
+T463,voy a mandar unas fotos,enviar_documento,,desarrollo,sintetico_v1
+T464,te envio mi receta,enviar_documento,,desarrollo,sintetico_v1
+T465,kiero mandar mis estudios,enviar_documento,,desarrollo,sintetico_v1
+T466,mandar foto de la receta de mi hijo,enviar_documento,,desarrollo,sintetico_v1
+T467,tengo la receta en foto,enviar_documento,,desarrollo,sintetico_v1
+T468,¿les puedo pasar mis análisis de sangre?,enviar_documento,,desarrollo,sintetico_v1
+T469,quiero enviar mi licencia como identificación,enviar_documento,,desarrollo,sintetico_v1
+T470,enviar resultados de laboratorio,enviar_documento,,desarrollo,sintetico_v1
+T471,anexar documento,enviar_documento,,desarrollo,sintetico_v1
+T472,¿por aquí mando mis papeles?,enviar_documento,,desarrollo,sintetico_v1
+T473,necesito enviarles mi identificación,enviar_documento,,desarrollo,sintetico_v1
+T474,¿cómo envío mi INE?,enviar_documento,,desarrollo,sintetico_v1
+T475,quiero enviar una imagen,enviar_documento,,desarrollo,sintetico_v1
+T476,¿puedo subir mis recetas pasadas?,enviar_documento,,desarrollo,sintetico_v1
+T477,mando mi análisis clínico,enviar_documento,,desarrollo,sintetico_v1
+T478,te adjunto la foto,enviar_documento,,desarrollo,sintetico_v1
+T479,¿la foto de mis estudios se las mando aquí?,enviar_documento,,desarrollo,sintetico_v1
+T480,enviar mi credencial,enviar_documento,,desarrollo,sintetico_v1
+T481,quiero mandar una foto de mi receta,enviar_documento,,desarrollo,sintetico_v1
+T482,adjuntar estudios,enviar_documento,,desarrollo,sintetico_v1
+T483,les envío mis documentos,enviar_documento,,desarrollo,sintetico_v1
+T484,buenas tardes joven,saludo,,prueba,sintetico_v1
+T485,"hola, ¿es aquí lo del consultorio?",saludo,,prueba,sintetico_v1
+T486,ola buenas tardes,saludo,,prueba,sintetico_v1
+T487,"buenos días, le escribe la señora Martha",saludo,,prueba,sintetico_v1
+T488,"hola, ¿sí funciona este número?",saludo,,prueba,sintetico_v1
+T489,"buenas noches, perdone que le escriba tan tarde",saludo,,prueba,sintetico_v1
+T490,"qué tal, ¿cómo está?",saludo,,prueba,sintetico_v1
+T491,muy buen día tenga usted,saludo,,prueba,sintetico_v1
+T492,"buen día, ¿me puede orientar por favor?",saludo,,prueba,sintetico_v1
+T493,holaa inti,saludo,,prueba,sintetico_v1
+T494,"buenas tardes, mi hija me pasó este contacto",saludo,,prueba,sintetico_v1
+T495,"hola, ¿qué tal su día?",saludo,,prueba,sintetico_v1
+T496,"saludos, buenas tardes",saludo,,prueba,sintetico_v1
+T497,"buenos dias, tengo una duda",saludo,,prueba,sintetico_v1
+T498,"hey, buenas",saludo,,prueba,sintetico_v1
+T499,¿el sábado hasta qué hora están?,consultar_informacion,horarios,prueba,sintetico_v1
+T500,¿a que hora habren?,consultar_informacion,horarios,prueba,sintetico_v1
+T501,¿por dónde quedan?,consultar_informacion,ubicacion,prueba,sintetico_v1
+T502,"no encuentro el consultorio, ¿cuál es la calle?",consultar_informacion,ubicacion,prueba,sintetico_v1
+T503,¿tienen número para marcarles?,consultar_informacion,contacto,prueba,sintetico_v1
+T504,¿me da su correo para escribirles?,consultar_informacion,contacto,prueba,sintetico_v1
+T505,¿qué consultas dan ahí?,consultar_informacion,servicios,prueba,sintetico_v1
+T506,¿hacen certificado médico para el trabajo?,consultar_informacion,servicios,prueba,sintetico_v1
+T507,¿cuánto me sale la consulta de primera vez?,consultar_informacion,costos,prueba,sintetico_v1
+T508,¿qué precio tiene el certificado?,consultar_informacion,costos,prueba,sintetico_v1
+T509,¿se puede pagar con tarjeta de débito?,consultar_informacion,metodos_pago,prueba,sintetico_v1
+T510,¿hay terminal para pagar?,consultar_informacion,metodos_pago,prueba,sintetico_v1
+T511,¿qué tengo que llevar el día de la consulta?,consultar_informacion,documentos,prueba,sintetico_v1
+T512,¿piden algún documento para atenderme?,consultar_informacion,documentos,prueba,sintetico_v1
+T513,¿abren entre semana en la tarde?,consultar_informacion,horarios,prueba,sintetico_v1
+T514,¿cómo es eso de la homeopatía?,orientacion_homeopatia,,prueba,sintetico_v1
+T515,"mi vecina va con un homeópata, ¿qué hacen en la consulta?",orientacion_homeopatia,,prueba,sintetico_v1
+T516,¿la homeopatia es lo mismo que la medicina natural?,orientacion_homeopatia,,prueba,sintetico_v1
+T517,"nunca he ido a homeopatía, ¿qué me van a hacer?",orientacion_homeopatia,,prueba,sintetico_v1
+T518,¿en qué es distinta la consulta homeopática de la normal?,orientacion_homeopatia,,prueba,sintetico_v1
+T519,¿por qué dura una hora la consulta de homeopatía?,orientacion_homeopatia,,prueba,sintetico_v1
+T520,¿qué es un homeopata?,orientacion_homeopatia,,prueba,sintetico_v1
+T521,explíqueme por favor en qué consiste la homeopatía,orientacion_homeopatia,,prueba,sintetico_v1
+T522,¿la homeopatía son los chochitos?,orientacion_homeopatia,,prueba,sintetico_v1
+T523,quisiera entender bien lo de la homeopatía,orientacion_homeopatia,,prueba,sintetico_v1
+T524,¿cómo trabaja el doctor en homeopatía?,orientacion_homeopatia,,prueba,sintetico_v1
+T525,¿de qué va la homeopatía?,orientacion_homeopatia,,prueba,sintetico_v1
+T526,¿qué tanto preguntan en la consulta homeopática?,orientacion_homeopatia,,prueba,sintetico_v1
+T527,¿para qué sirve ir con un homeópata?,orientacion_homeopatia,,prueba,sintetico_v1
+T528,platíqueme de la consulta homeopática,orientacion_homeopatia,,prueba,sintetico_v1
+T529,quisiera que me apartara un lugar para el lunes,agendar_cita,,prueba,sintetico_v1
+T530,ocupo consulta para mi esposo el viernes en la tarde,agendar_cita,,prueba,sintetico_v1
+T531,¿me da cita para el certificado de mi hijo?,agendar_cita,,prueba,sintetico_v1
+T532,quiero una cita porfavor,agendar_cita,,prueba,sintetico_v1
+T533,necesito ver al doctor esta semana,agendar_cita,,prueba,sintetico_v1
+T534,¿puedo ir el jueves a las 10?,agendar_cita,,prueba,sintetico_v1
+T535,agéndeme para homeopatía,agendar_cita,,prueba,sintetico_v1
+T536,queria sacar una sita,agendar_cita,,prueba,sintetico_v1
+T537,¿tienen lugar para el sábado temprano?,agendar_cita,,prueba,sintetico_v1
+T538,apárteme una consulta de seguimiento,agendar_cita,,prueba,sintetico_v1
+T539,quiero que me den cita,agendar_cita,,prueba,sintetico_v1
+T540,reservar consulta medicina general,agendar_cita,,prueba,sintetico_v1
+T541,¿cuándo hay espacio para una cita?,agendar_cita,,prueba,sintetico_v1
+T542,"una cita para mi mamá de 70 años, por favor",agendar_cita,,prueba,sintetico_v1
+T543,me gustaría ir a consulta el martes,agendar_cita,,prueba,sintetico_v1
+T544,¿me confirma a qué hora quedó mi cita?,consultar_cita,,prueba,sintetico_v1
+T545,no recuerdo si mi cita era el jueves o el viernes,consultar_cita,,prueba,sintetico_v1
+T546,¿qué día me tocaba consulta?,consultar_cita,,prueba,sintetico_v1
+T547,quiero checar mi cita,consultar_cita,,prueba,sintetico_v1
+T548,¿quedó bien registrada la cita de mi mamá?,consultar_cita,,prueba,sintetico_v1
+T549,"mi cita es la IS103, ¿a qué hora es?",consultar_cita,,prueba,sintetico_v1
+T550,¿ya tengo apartada mi consulta?,consultar_cita,,prueba,sintetico_v1
+T551,ver los datos de mi reservación,consultar_cita,,prueba,sintetico_v1
+T552,¿mi sita es mañana?,consultar_cita,,prueba,sintetico_v1
+T553,¿a qué hora tengo que estar allá?,consultar_cita,,prueba,sintetico_v1
+T554,revísame la cita porfa,consultar_cita,,prueba,sintetico_v1
+T555,¿cómo sé cuándo es mi consulta?,consultar_cita,,prueba,sintetico_v1
+T556,olvidé cuándo me agendaron,consultar_cita,,prueba,sintetico_v1
+T557,¿mi consulta sigue programada?,consultar_cita,,prueba,sintetico_v1
+T558,¿qué día y hora quedó mi cita de homeopatía?,consultar_cita,,prueba,sintetico_v1
+T559,¿me pasa con alguien de recepción por favor?,derivar_humano,,prueba,sintetico_v1
+T560,prefiero que me atienda una persona,derivar_humano,,prueba,sintetico_v1
+T561,"ya no puedo ir a mi cita, ¿la cancelan?",derivar_humano,,prueba,sintetico_v1
+T562,¿puedo cambiar mi cita a la otra semana?,derivar_humano,,prueba,sintetico_v1
+T563,quiero hablar directamente con el doctor,derivar_humano,,prueba,sintetico_v1
+T564,pásame con una persona de verdad,derivar_humano,,prueba,sintetico_v1
+T565,"que me marque alguien de ahí, por favor",derivar_humano,,prueba,sintetico_v1
+T566,¿hay un humano disponible?,derivar_humano,,prueba,sintetico_v1
+T567,cancelen la cita de mi papá,derivar_humano,,prueba,sintetico_v1
+T568,reagendar porfa,derivar_humano,,prueba,sintetico_v1
+T569,comuníqueme con la secretaria,derivar_humano,,prueba,sintetico_v1
+T570,¿se puede recorrer mi cita?,derivar_humano,,prueba,sintetico_v1
+T571,quiero platicar con alguien del consultorio,derivar_humano,,prueba,sintetico_v1
+T572,"no quiero bot, quiero persona",derivar_humano,,prueba,sintetico_v1
+T573,¿me puede atender alguien personalmente?,derivar_humano,,prueba,sintetico_v1
+T574,se lo agradezco mucho,despedida,,prueba,sintetico_v1
+T575,"listo, es todo",despedida,,prueba,sintetico_v1
+T576,"ok muchas gracias, que esté bien",despedida,,prueba,sintetico_v1
+T577,hasta luego joven,despedida,,prueba,sintetico_v1
+T578,"ya con eso, gracias",despedida,,prueba,sintetico_v1
+T579,adios inti,despedida,,prueba,sintetico_v1
+T580,"le agradezco, que le vaya bien",despedida,,prueba,sintetico_v1
+T581,"perfecto, nos vemos",despedida,,prueba,sintetico_v1
+T582,"sale pues, gracias",despedida,,prueba,sintetico_v1
+T583,"muchas gracias, bendiciones",despedida,,prueba,sintetico_v1
+T584,ya no ocupo nada más,despedida,,prueba,sintetico_v1
+T585,"bye, gracias",despedida,,prueba,sintetico_v1
+T586,graciass,despedida,,prueba,sintetico_v1
+T587,"de acuerdo, hasta pronto",despedida,,prueba,sintetico_v1
+T588,es todo lo que necesitaba,despedida,,prueba,sintetico_v1
+T589,le mando la foto de mi credencial,enviar_documento,,prueba,sintetico_v1
+T590,¿le puedo enviar mis análisis por aquí?,enviar_documento,,prueba,sintetico_v1
+T591,"tengo foto de la receta del otro doctor, ¿se la paso?",enviar_documento,,prueba,sintetico_v1
+T592,quiero mandarles mis estudios de sangre,enviar_documento,,prueba,sintetico_v1
+T593,aquí le dejo mi identificación,enviar_documento,,prueba,sintetico_v1
+T594,¿cómo les hago llegar mis resultados?,enviar_documento,,prueba,sintetico_v1
+T595,voy a enviar unas imágenes,enviar_documento,,prueba,sintetico_v1
+T596,adjunto receta,enviar_documento,,prueba,sintetico_v1
+T597,le comparto mis laboratorios,enviar_documento,,prueba,sintetico_v1
+T598,¿me deja mandarle una foto?,enviar_documento,,prueba,sintetico_v1
+T599,quiero subir la ine de mi papá,enviar_documento,,prueba,sintetico_v1
+T600,envio foto de estudios,enviar_documento,,prueba,sintetico_v1
+T601,mando documento,enviar_documento,,prueba,sintetico_v1
+T602,¿aquí se mandan las recetas?,enviar_documento,,prueba,sintetico_v1
+T603,le paso los resultados de mi mamá,enviar_documento,,prueba,sintetico_v1
+T604,recomiéndame una serie,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T605,¿quién ganó el partido?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T606,¿cuánto está el dólar?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T607,cuéntame un chiste,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T608,¿cuál es la capital de Francia?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T609,¿me ayudas con mi tarea de matemáticas?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T610,¿dónde venden pizza cerca?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T611,¿qué hora es en España?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T612,quiero comprar un celular,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T613,¿cómo hago pastel de chocolate?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T614,ponme música,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T615,¿cuánto cuesta un vuelo a Cancún?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T616,¿abren el banco el sábado?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T617,¿cuál es el teléfono de la pizzería?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T618,traduce esto al inglés,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T619,¿qué opinas de la inteligencia artificial?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T620,¿me prestas dinero?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T621,¿cómo saco mi pasaporte?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T622,escribe un poema,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T623,¿qué día es hoy?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T624,¿cuándo es el siguiente puente?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T625,¿me recomiendas un restaurante?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T626,resultados de la lotería,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T627,¿cómo configuro mi correo?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T628,¿cómo llego al aeropuerto?,fuera_dominio,,fuera_dominio_calibracion,sintetico_v1
+T629,¿va a llover hoy?,fuera_dominio,,fuera_dominio_prueba,sintetico_v1
+T630,¿quién canta esta canción?,fuera_dominio,,fuera_dominio_prueba,sintetico_v1
+T631,¿cuál es el mejor celular?,fuera_dominio,,fuera_dominio_prueba,sintetico_v1
+T632,dime una receta de enchiladas,fuera_dominio,,fuera_dominio_prueba,sintetico_v1
+T633,¿a qué hora abre el súper?,fuera_dominio,,fuera_dominio_prueba,sintetico_v1
+T634,¿cuánto cuesta la gasolina?,fuera_dominio,,fuera_dominio_prueba,sintetico_v1
+T635,¿cómo saco mi licencia de manejo?,fuera_dominio,,fuera_dominio_prueba,sintetico_v1
+T636,hazme la tarea,fuera_dominio,,fuera_dominio_prueba,sintetico_v1
+T637,¿qué es la fotosíntesis?,fuera_dominio,,fuera_dominio_prueba,sintetico_v1
+T638,busco trabajo,fuera_dominio,,fuera_dominio_prueba,sintetico_v1
+T639,¿dónde hay un cajero?,fuera_dominio,,fuera_dominio_prueba,sintetico_v1
+T640,jsjsjs,fuera_dominio,,fuera_dominio_prueba,sintetico_v1
+T641,¿cuántos años tienes?,fuera_dominio,,fuera_dominio_prueba,sintetico_v1
+T642,recomiéndame un libro,fuera_dominio,,fuera_dominio_prueba,sintetico_v1
+T643,¿cómo cambio una llanta?,fuera_dominio,,fuera_dominio_prueba,sintetico_v1

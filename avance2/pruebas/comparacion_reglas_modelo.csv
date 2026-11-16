@@ -1,0 +1,5 @@
+﻿,casos,precisión de intención,pruebas aprobadas,tasa de fallback
+"Avance 1, reglas (36 casos)",36.0,0.972,0.972,0.083
+"Avance 2, modelo (36 casos)",36.0,1.0,1.0,0.056
+"Avance 1, reglas (6 casos nuevos)",6.0,0.167,0.167,0.333
+"Avance 2, modelo (6 casos nuevos)",6.0,0.833,0.833,0.0
